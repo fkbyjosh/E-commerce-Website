@@ -1,0 +1,39 @@
+/* PRODUCT ROW 1 */
+
+.product-row-1 {
+  width: 80vw;
+  margin: 75px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.product-image {
+  width: 40vw;
+  height: auto;
+}
+
+.product-row-info-1 {
+  width: 445px;
+  height: 340px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* PRODUCT ROW 2 */
+.product-row-2 {
+  width: 80vw;
+  margin: 75px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.product-row-info-2 {
+  width: 445px;
+  height: 340px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
